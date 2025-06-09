@@ -6,3 +6,4 @@ Update setup notes
 Expand intro section
 Improve explanation of flags
 Add note about dependencies
+Fix formatting for markdown list
