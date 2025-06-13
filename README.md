@@ -10,3 +10,4 @@ Fix formatting for markdown list
 Commit 10 line
 Update example output
 Add missing CLI param details
+Minor grammar fix
