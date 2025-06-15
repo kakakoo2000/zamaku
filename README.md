@@ -12,3 +12,4 @@ Update example output
 Add missing CLI param details
 Minor grammar fix
 Tweak section titles for clarity
+Note about Windows support
